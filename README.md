@@ -1,4 +1,3 @@
-# My Homey apps
 
 ## 💻 My other Homey apps
 ---
