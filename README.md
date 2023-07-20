@@ -1,5 +1,5 @@
 
-## 💻 My other Homey apps
+## 💻 Apps made by @LRvdLinden
 ---
 | Icon | App name | Community |
 |------|:--------------:|:-------:|
