@@ -11,5 +11,5 @@
 | 🚨 | [P2000](https://homey.app/nl-nl/app/nl.lrvdlinden.p2000/test/) | ✅ | ✅ | [Support](https://community.homey.app/t/app-pro-p2000/83738) |
 | 🚁 | [Lifeliner](https://homey.app/nl-nl/app/nl.lrvdlinden.lifeliner/test/) | ✅ | ✅ | [Support](https://community.homey.app/t/app-pro-lifeline-alerts-for-homey/83742) |
 
-*⚠️ Test apps only available via test versions
+**⚠️ Test apps only available via test versions
 ---
