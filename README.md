@@ -3,7 +3,7 @@
 
 ## Contributions 
 
-If you appreciate this app, contribute to future development by making a [paypal contribution ](https://www.paypal.me/lrvdlinden)
+If you appreciate this apps, contribute to future development by making a [paypal contribution ](https://www.paypal.me/lrvdlinden)
 or buy me a couple of :beers: or a :coffee: on [Ko-Fi ](https://ko-fi.com/lrvdlinden_homey#checkoutModal) or [Bunq.me ](https://bunq.me/lrvdlinden)
 
 [![image|150x84](upload://5Rtagdo7TObzh9u8haIuXaXBJbc) ](https://paypal.me/lrvdlinden) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg) ](https://ko-fi.com/lrvdlinden_homey#checkoutModal)[![image|172x90](upload://iSgqkM7Zaw5s5hwVVnAqXNDQLG9) ](https://bunq.me/lrvdlinden)
