@@ -21,5 +21,4 @@ or buy me a couple of :beers: or a :coffee: on [Ko-Fi ](https://ko-fi.com/lrvdli
 | 📰 | [RTL Nieuws](https://homey.app/nl-nl/app/nl.lrvdlinden.rtl-nieuws/rtl-nieuws/test) |[no live version](https://homey.app/nl-nl/app/nl.lrvdlinden.rtl-nieuws/rtl-nieuws/test) | [0.0.5](https://homey.app/nl-nl/app/nl.lrvdlinden.rtl-nieuws/rtl-nieuws/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-rtl-nieuws-for-homey/85531) |
 
 #### ⚠️ Cloud apps only available via test versions. Awaiting approval from Athom for Cloud release. 
-
 ---
