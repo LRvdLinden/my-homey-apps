@@ -19,5 +19,7 @@ or buy me a couple of :beers: or a :coffee: on [Ko-Fi ](https://ko-fi.com/lrvdli
 | 🚁 | [Lifeliner](https://homey.app/nl-nl/app/nl.lrvdlinden.lifeliner/test/) |✅ | ✅ | [Support](https://community.homey.app/t/app-pro-lifeline-alerts-for-homey/83742) | [Rating](https://homey.app/nl-nl/app/nl.lrvdlinden.lifeliner/Lifeliner/#ratings) |
 | 📰 | [RTL Nieuws](https://homey.app/nl-nl/app/nl.lrvdlinden.rtl-nieuws/rtl-nieuws/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-rtl-nieuws-for-homey/85531) | [Rating](https://homey.app/nl-nl/app/nl.lrvdlinden.rtl-nieuws/RTL-Nieuws/#ratings) |
 | ⚽️ | [VI Nieuws](https://homey.app/a/nl.lrvdlinden.vi/test/) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-vi-nieuws/85738) | [Rating](https://homey.app/nl-nl/app/nl.lrvdlinden.vi/VI-Nieuws/#ratings) |
+|📰 | [Bright.nl](https://homey.app/a/nl.lrvdlinden.bright/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-bright-nl-for-homey/85905) | [Rating](https://homey.app/a/nl.lrvdlinden.bright/#ratings) |
+| ⚠️ | [Amber Alert](https://homey.app/a/nl.lrvdlinden.amber-alert/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-amber-alert-for-homey/85936) | [Rating](https://homey.app/a/nl.lrvdlinden.amber-alert/#ratings) |
 
 ---
