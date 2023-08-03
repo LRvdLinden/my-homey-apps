@@ -21,5 +21,8 @@ or buy me a couple of :beers: or a :coffee: on [Ko-Fi ](https://ko-fi.com/lrvdli
 | ⚽️ | [VI Nieuws](https://homey.app/a/nl.lrvdlinden.vi/test/) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-vi-nieuws/85738) | [Rating](https://homey.app/nl-nl/app/nl.lrvdlinden.vi/VI-Nieuws/#ratings) |
 |📰 | [Bright.nl](https://homey.app/a/nl.lrvdlinden.bright/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-bright-nl-for-homey/85905) | [Rating](https://homey.app/a/nl.lrvdlinden.bright/#ratings) |
 | ⚠️ | [Amber Alert](https://homey.app/a/nl.lrvdlinden.amber-alert/test) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-amber-alert-for-homey/85936) | [Rating](https://homey.app/a/nl.lrvdlinden.amber-alert/#ratings) |
+| 📃 | [RSS Feed Reader](https://homey.app/en-us/app/nl.lrvdlinden.rss-feed-reader/RSS-Feed-Reader/test/) |✅ | ❌ | [Support](https://community.homey.app/t/app-pro-rss-feed-reader/85954) | [Rating](https://homey.app/en-us/app/nl.lrvdlinden.rss-feed-reader/RSS-Feed-Reader/test/#ratings) |
+
+
 
 ---
